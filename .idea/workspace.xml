@@ -2,33 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b32c4ef-58fb-4b86-be9e-0896fd85375b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/flaskblog/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskblog/main/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskblog/main/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskblog/main/routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskblog/posts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskblog/posts/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskblog/posts/routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskblog/templates/create_post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskblog/templates/post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskblog/templates/reset_request.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskblog/templates/reset_token.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskblog/templates/user_post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskblog/users/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskblog/users/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskblog/users/routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskblog/users/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/errors/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/errors/handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/templates/errors/403.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/templates/errors/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/templates/errors/500.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flaskblog/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskblog/forms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskblog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskblog/routes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskblog/site.db" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/site.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskblog/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskblog/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/templates/layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskblog/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskblog/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/templates/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
