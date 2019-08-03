@@ -7,6 +7,6 @@ from flaskblog.models import User
 
 class PostForm(FlaskForm):
     title = StringField('Title', validators=[DataRequired()])
-    content = TextAreaField('Content', validators=[DataRequired()])
+    content = TextAreaField('Content', validators=[DataRequired()], id='summernote')
     submit = SubmitField('Post')
 
