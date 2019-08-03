@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b32c4ef-58fb-4b86-be9e-0896fd85375b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/flaskblog/errors/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskblog/errors/handlers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskblog/templates/errors/403.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskblog/templates/errors/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskblog/templates/errors/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskblog/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/__init__.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
